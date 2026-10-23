@@ -60,4 +60,3 @@ Be prepared to revise an approved contribution after review. Contributions must 
 ## Project-specific guidance
 
 Preserve module command names, parameter behavior, output objects, and failure contracts. Test affected commands on the supported PowerShell versions without weakening script policies.
-
